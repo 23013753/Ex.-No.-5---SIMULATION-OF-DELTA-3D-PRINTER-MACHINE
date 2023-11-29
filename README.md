@@ -33,7 +33,7 @@
 ![Alt text](<Screenshot 2023-11-29 081502.png>)
 
 ### Name:vishal.s
-### Register Number:23313756
+### Register Number:23313753
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
