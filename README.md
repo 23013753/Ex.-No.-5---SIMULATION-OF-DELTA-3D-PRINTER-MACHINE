@@ -31,7 +31,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
 
 ## Output:
-![Alt text](<Screenshot 2023-11-29 081502.png>)
+
 
 ### Name:vishal.s
 ### Register Number:23313753
